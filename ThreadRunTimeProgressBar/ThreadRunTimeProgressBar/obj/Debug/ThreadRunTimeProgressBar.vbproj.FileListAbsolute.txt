@@ -1,0 +1,11 @@
+C:\Users\Mounes\Desktop\ThreadRunTimeProgressBar\ThreadRunTimeProgressBar\bin\Debug\ThreadRunTimeProgressBar.exe.config
+\\VBOXSVR\ShareDrive\All data\Programming Projects\ThreadRunTimeProgressBar\ThreadRunTimeProgressBar\bin\Debug\ThreadRunTimeProgressBar.exe.config
+\\VBOXSVR\ShareDrive\All data\Programming Projects\ThreadRunTimeProgressBar\ThreadRunTimeProgressBar\bin\Debug\ThreadRunTimeProgressBar.exe
+\\VBOXSVR\ShareDrive\All data\Programming Projects\ThreadRunTimeProgressBar\ThreadRunTimeProgressBar\bin\Debug\ThreadRunTimeProgressBar.pdb
+\\VBOXSVR\ShareDrive\All data\Programming Projects\ThreadRunTimeProgressBar\ThreadRunTimeProgressBar\bin\Debug\ThreadRunTimeProgressBar.xml
+\\VBOXSVR\ShareDrive\All data\Programming Projects\ThreadRunTimeProgressBar\ThreadRunTimeProgressBar\obj\Debug\ThreadRunTimeProgressBar.Resources.resources
+\\VBOXSVR\ShareDrive\All data\Programming Projects\ThreadRunTimeProgressBar\ThreadRunTimeProgressBar\obj\Debug\ThreadRunTimeProgressBar.vbproj.GenerateResource.Cache
+\\VBOXSVR\ShareDrive\All data\Programming Projects\ThreadRunTimeProgressBar\ThreadRunTimeProgressBar\obj\Debug\ThreadRunTimeProgressBar.exe
+\\VBOXSVR\ShareDrive\All data\Programming Projects\ThreadRunTimeProgressBar\ThreadRunTimeProgressBar\obj\Debug\ThreadRunTimeProgressBar.xml
+\\VBOXSVR\ShareDrive\All data\Programming Projects\ThreadRunTimeProgressBar\ThreadRunTimeProgressBar\obj\Debug\ThreadRunTimeProgressBar.pdb
+\\VBOXSVR\ShareDrive\All data\Programming Projects\ThreadRunTimeProgressBar\ThreadRunTimeProgressBar\obj\Debug\ThreadRunTimeProgressBar.Form1.resources
